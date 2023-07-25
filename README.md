@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Frontend:![Screenshot 2023-07-25 230323](https://github.com/Aajad2002/travel-advisor/assets/115461550/507d25cc-2832-4876-af0b-edf01ab36ac7)
+![Screenshot 2023-07-25 230351](https://github.com/Aajad2002/travel-advisor/assets/115461550/5ce1a784-fa2a-452e-866b-f8c555ce95e1)
+![xoxo](https://github.com/Aajad2002/travel-advisor/assets/115461550/7ca2fae3-68f6-4d0e-8e07-7858da4ac2c4)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Travel Advisor Application is a user-friendly platform that allows users to navigate the map and perform searches for various locations based on applied filters. The application fetches data from the travel advisor API, providing comprehensive travel information to users. It is designed to offer a seamless experience in discovering nearby attractions and services within a specified range.
 
-## Available Scripts
+Key Features:
 
-In the project directory, you can run:
+Map Navigation and Search: Users can easily navigate the interactive map and perform searches using the search bar. The map displays locations based on applied filters, ensuring a smooth user experience.
 
-### `npm start`
+Filter Functionality: The application supports all types provided by the travel advisor API. Users can apply filters to refine their search results based on their preferences.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Adjustable Range Slider: A range slider is provided to adjust the search radius from 1KM to 5KM, making it convenient for users to find nearby attractions or services.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Live Demo:
+[Deploy link](https://travel-advisor-rho-opal.vercel.app/)
 
-### `npm test`
+Technologies Used:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+HTML5
+CSS3
+JavaScript (ES6)
+React
+NPM Packages
+Chakra-ui
+leaflet-map
+react-icons
 
-### `npm run build`
+Contributing:
+If you wish to contribute to this project, please fork the repository and create a pull request. We welcome any improvements or bug fixes!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feedback:
+We value your feedback! If you have any suggestions or encounter any issues, please create a new issue on GitHub.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Author:
+Aajad Kumar Prajapat
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
